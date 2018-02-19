@@ -1,3 +1,4 @@
-# My Awesome Book
+# Full Stack Fest's Sponsor Handbook
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Are you thinking about sponsoring Full Stack Fest? Are you already a sponsor and you're looking for ways to maximize the value of your sponsorship? This book is for you!
+
