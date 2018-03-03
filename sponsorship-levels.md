@@ -1,6 +1,6 @@
-# Sponsorship Levels
+## Sponsorship Levels
 
-## Available levels
+### Available levels
 
 | Benefits                                                                      |   Diamond    |    Gold     |   Silver    |   Bronze    |
 | :---------------------------------------------------------------------------- | :----------: | :---------: | :---------: | :---------: |
@@ -29,7 +29,7 @@
 | **Available slots**                                                           |    **2**     |    **7**    |   **20**    |    **∞**    |
 | **Price**                                                                     | **10.000 €** | **6.000 €** | **3.000 €** | **1.000 €** |
 
-## Opportunity grant sponsorship
+### Opportunity grant sponsorship
 
 Conferences are a great way to get inspired and get to learn more about the industry and meet new people. Unfortunately, not everyone is able to afford the expenses associated with coming to the conference. For that reason, we provide opportunity grants for selected appliants in to help them cover some (or all) of the costs.
 
@@ -37,7 +37,7 @@ Every **500 €** you sponsor helps us approximately cover the ticket cost and t
 
 As a way to show gratitude, we will list your company within the _opportunity granters_, we will mention your company on a separate slide during presentation, and we will announce the sponsorship on Twitter.
 
-## Want something more?
+### Want something more?
 
 We like to think of every relationship with a sponsor as a unique one and as such having specific characteristics. We offer addons - extra perks for the main sponsors packages, so we can build a personalized one that fits your needs with some extra presence in certain parts of the conference.
 
@@ -49,80 +49,80 @@ We like to think of every relationship with a sponsor as a unique one and as suc
 | **Parties**<br />Our conferences are known for their quality, not only during the talks but also when it’s time to party. Previous parties have been held at Razzmatazz, Otto Zutz (two of the biggest clubs in Barcelona) and also at the beach. The sponsor logo will be present at communications related to the party and also printed on glasses provided to the attendees. The sponsor is also encouraged to provide any other material (like rollups) and to suggest special activities to entertain the audience. |      4       | **2.500€** |
 | **Hack Room**<br />There will be a special room to fit around 100 people, so the attendees can go there to relax, talk, work, explore or hack! The addon includes presence at communications related to the hackroom and the possibility to decorate the room as you like (subject to organization and venue approval).                                                                                                                                                                                                   |      1       | **3.000€** |
 
-## More Details
+### More Details
 
-### Discounted tickets
+#### Discounted tickets
 
 As a sponsor, you’re eligible to receive extra tickets with a special discount between 5-10% (depending on the quantity). <b>Subject to availability.</b>
 
-### Logo at sponsors page
+#### Logo at sponsors page
 
 The sponsor logo will be present on the Sponsors page at the Full Stack Fest website.
 
-### Tweet during conference
+#### Tweet during conference
 
 During the conference days we will send a thank you / recognition tweet. Sponsors encouraged to suggest unique tweets.
 
-### Post on job board
+#### Post on job board
 
 Opportunity to post a job offer free of charge on the Full Stack Fest job board. The job offers are to be included in FSF newsletter (only the title and a link to the job offer) - 3.000+ subscribers
 
-### Logo at the landing page
+#### Logo at the landing page
 
 Get SEO positioning and recognition: the sponsor's logo will be constantly present on the Full Stack Fest landing page.
 
-### Description on the sponsor page
+#### Description on the sponsor page
 
 A short description of the sponsor or its product at the sponsors page at the Full Stack Fest website.
 
-### Logo in the newsletter
+#### Logo in the newsletter
 
 The sponsor logo will be present at the footer of each newsletter sent.
 
-### Logo on recorded videos
+#### Logo on recorded videos
 
 The sponsor logo as a part of the opening image for all videos published after the festival. The videos are published under CC license. As of today the videos from our conference have approx. 100.000 visits per year.
 
-### Free tickets
+#### Free tickets
 
 Each ticket is valid for and grants access to the conference for the 4 days.
 
-### Slides/Mention by the MC
+#### Slides/Mention by the MC
 
 The sponsor logo will be present in introductory slides before talks, accompanied by mentions of our MC during the event
 
-### Logo at the registration hall
+#### Logo at the registration hall
 
 The sponsor logo will be present at the very entrance to the venue, just in front of the registration desk
 
-### Exhibit table
+#### Exhibit table
 
 The sponsor gets a table with two seats in the foyer where he can promote its brand or product. Any suggestion from sponsors on customizing the way brand/product is presented.
 
-### Logos projected near the main screen
+#### Logos projected near the main screen
 
 The sponsor logo will be projected with a spotlight, so it’ll be always present during the event.
 
-### Logo on stage lectern
+#### Logo on stage lectern
 
 Logo appears during all videos and most of the photos
 
-### Logo on stage banner
+#### Logo on stage banner
 
 Logo appears during all videos and most of the photos
 
-### Logo on the entrance billboard
+#### Logo on the entrance billboard
 
 A big billboard with the conference poster visible to the whole audience when leaving and entering the venue. The sponsor logo included on the poster.
 
-### Inserts to attendee bag
+#### Inserts to attendee bag
 
 The sponsor will have the opportunity to provide any promo material - subject to approval of the organiser, to be inserted in the attendee bag. Experience tells us attendees appreciate original and surprising things (and will even tweet about it) like stickers, buttons, discount codes, T-shirts, cookies or even plushies.
 
-### Logo on attendee notebooks
+#### Logo on attendee notebooks
 
 The logo will be part of the conference notebook included in the attendee bag.
 
-### Logo on attendee badges and lanyards
+#### Logo on attendee badges and lanyards
 
 The sponsor logo present on the attendee badge.
