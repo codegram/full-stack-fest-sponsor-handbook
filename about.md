@@ -6,6 +6,17 @@ Full Stack Fest is an international developer event in Barcelona held over a wee
 
 We're putting the languages aside to put a strong focus on the technologies behind them and the problems they're trying to solve. At its core, the conference retains its soul: A single-track, curated, deeply technical event featuring the best speakers and industry leaders worldwide.
 
+## Audience
+
+Our audience is interested in a broad range of programming languages and technologies like: Ruby, JavaScript, Performance, Functional Programming, ReactJS, Scalability, Docker, Infrastructure, Internet of Things, Single Page Applications, Go, Rust, Elixir, iOS…
+
+* Most of them consider them advanced or experts
+* Mostly developers and technical leads
+* In the 25-44 age range
+* From Europe
+* Curious, looking to get inspired
+* Interested in many different programming languages, infrastrucutre, new technologies, scalability or new programming paradigms
+
 ## The organisers
 
 [Codegram](https://www.codegram.com) is a software studio specializing in Ruby, Elixir, JavaScript and Clojure applications, crafted with love in Barcelona and London since 2009.
@@ -22,16 +33,15 @@ You can check our [YouTube channel](https://www.youtube.com/channel/UCwoOpKfkyCQ
 
 ## Event details
 
-**Dates**   
+**Dates**
 September 3-7 2018
 
-**Attendees**  
+**Attendees**
 Approximately 700 people from all around the world, but mostly from Europe.
 
-**Venue address**   
-Auditori AXA  
+**Venue address**
+Auditori AXA
 [Avinguda Diagonal, 547, 08029 Barcelona, Spain](https://goo.gl/maps/d8sSaQQcBc92)
 
-**Advertising**   
+**Advertising**
 Sponsored content through social networks and IT newsletters.
-

@@ -1,8 +1,12 @@
 # Summary
 
+## Introduction
+
+* [The Speaker's Handbook](README.md)
+
 ## Becoming a sponsor
 
-* [Why sponsor](README.md)
+* [Why sponsoring](why-sponsor.md)
 * [About](about.md)
 * [Sponsorship levels](sponsorship-levels.md)
 * [Engagement opportunities](engagement.md)
@@ -16,4 +20,3 @@
 * [Promotion and social media interactions](social-media.md)
 * [Organizing an associated event](associated-events.md)
 * [Job board](job-board.md)
-
