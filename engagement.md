@@ -3,15 +3,17 @@
 ## Interacting with the audience
 
 * How to approach attendees
-  * Use your stand to create awareness
+
+  * Use your booth to create awareness
   * Don't be invasive
   * Bring giveaway material
-
   * Incentivize their interaction via a challenge
 
+# Bag inserts and promotional material
 
-# Swag and promotional material
+* Examples of previous inserts
+* Inserts ideas & providers
+* Timings
 
-* Examples of previous swag
-* Swag ideas & providers
-* Fabrication timings
+
+
