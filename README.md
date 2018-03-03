@@ -16,5 +16,9 @@ Become our sponsor and benefit in many ways:
 
 Our audience is interested in a broad range of programming languages and technologies like: Ruby, JavaScript, Performance, Functional Programming, ReactJS, Scalability, Docker, Infrastructure, Internet of Things, Single Page Applications, Go, Rust, Elixir, iOS…
 
-https://docs.google.com/spreadsheets/d/18w_5s5Tlpw6-ma01tWH0ItX3lPBAB2Gjw8qe5mvBK20/edit#gid=0
-
+* Most of them consider them advanced or experts
+* Mostly developers and technical leads
+* In the 25-44 age range
+* From Europe
+* Curious, looking to get inspired
+* Interested in many different programming languages, infrastrucutre, new technologies, scalability or new programming paradigms
