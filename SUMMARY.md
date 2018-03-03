@@ -2,6 +2,7 @@
 
 ## Becoming a sponsor
 
+* [Why sponsor Full Stack Fest](README.md)
 * [About Full Stack Fest](about.md)
 * [Sponsorship levels](sponsorship-levels.md)
 * [Engagement opportunities](engagement.md)
