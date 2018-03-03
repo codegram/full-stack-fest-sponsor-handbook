@@ -3,5 +3,8 @@
   "description": "A little book containing tips for sponsors",
   "author": "Codegram",
   "language": "English",
-  "plugins": ["theme-gestalt", "-theme-default", "styles-sass-fix"]
+  "plugins": ["theme-gestalt", "-theme-default", "styles-sass-fix"],
+  "styles": {
+    "website": "./styles/website.scss"
+  }
 }
