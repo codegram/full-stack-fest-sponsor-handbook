@@ -105,15 +105,15 @@ The sponsor logo will be projected with a spotlight, so it’ll be always presen
 
 #### Logo on stage lectern
 
-Logo appears during all videos and most of the photos
+Logo appears during all videos and most of the photos.
 
 #### Logo on stage banner
 
-Logo appears during all videos and most of the photos
+Logo appears during all videos and most of the photos.
 
-#### Logo on the entrance billboard
+#### Logo at the entrance billboard
 
-A big billboard with the conference poster visible to the whole audience when leaving and entering the venue. The sponsor logo included on the poster.
+A big billboard with the conference poster visible to the whole audience when leaving and entering the venue. 
 
 #### Inserts to attendee bag
 
