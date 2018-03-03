@@ -2,7 +2,7 @@
 
 ## Introduction
 
-* [The Sponsor's Handbook ™️](README.md)
+* [The Sponsor's Handbook ™](README.md)
 
 ## Becoming a sponsor
 
