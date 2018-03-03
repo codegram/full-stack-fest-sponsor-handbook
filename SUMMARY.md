@@ -7,6 +7,7 @@
 * [Sponsorship levels](sponsorship-levels.md)
 * [Engagement opportunities](engagement.md)
 * [Previous Sponsors](previous-sponsors.md)
+* [Contact](contact.md)
 
 ## You're already a sponsor
 

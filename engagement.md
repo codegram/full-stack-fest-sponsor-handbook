@@ -10,10 +10,7 @@
   * Incentivize their interaction via a challenge
 
 
-
 # Swag and promotional material
-
-TODO
 
 * Examples of previous swag
 * Swag ideas & providers
