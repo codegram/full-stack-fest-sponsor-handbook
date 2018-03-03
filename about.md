@@ -25,6 +25,9 @@ You can check our [YouTube channel](https://www.youtube.com/channel/UCwoOpKfkyCQ
 **Dates**   
 September 3-7 2018
 
+**Attendees**  
+Approximately 700 people from all around the world, but mostly from Europe.
+
 **Venue address**   
 Auditori AXA  
 [Avinguda Diagonal, 547, 08029 Barcelona, Spain](https://goo.gl/maps/d8sSaQQcBc92)
