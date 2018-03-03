@@ -4,9 +4,9 @@ Are you ready to sponsor or do you need more information? You can reach us at [c
 
 ## Company details
 
-Codegram Technologies SL
-Rambla d'Ègara 235, 5-2
-08224 Terrassa (Barcelona)
+Codegram Technologies SL  
+Rambla d'Ègara 235, 5-2  
+08224 Terrassa (Barcelona)  
 Spain
 
 VAT number: ESB65148900

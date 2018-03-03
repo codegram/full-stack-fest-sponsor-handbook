@@ -26,9 +26,9 @@ You can check our [YouTube channel](https://www.youtube.com/channel/UCwoOpKfkyCQ
 September 3-7 2018
 
 ### Venue address
-Auditori AXA
-[Avinguda Diagonal, 547
-08029 Barcelona, Spain](https://goo.gl/maps/d8sSaQQcBc92)
+
+Auditori AXA  
+[Avinguda Diagonal, 547, 08029 Barcelona, Spain](https://goo.gl/maps/d8sSaQQcBc92)
 
 ### Advertising			
 Sponsored content through social networks and IT newsletters.
