@@ -29,6 +29,14 @@
 | **Available slots**                                                           |    **2**     |    **7**    |   **20**    |    **∞**    |
 | **Price**                                                                     | **10.000 €** | **6.000 €** | **3.000 €** | **1.000 €** |
 
+## Opportunity grant sponsorship
+
+Conferences are a great way to get inspired and get to learn more about the industry and meet new people. Unfortunately, not everyone is able to afford the expenses associated with coming to the conference. For that reason, we provide opportunity grants for selected appliants in to help them cover some (or all) of the costs.
+
+Every **500 €** you sponsor helps us approximately cover the ticket cost and travel expenses within Europe.
+
+As a way to show gratitude, we will list your company within the _opportunity granters_, we will mention your company on a separate slide during presentation, and we will announce the sponsorship on Twitter.
+
 ## Want something more?
 
 We like to think of every relationship with a sponsor as a unique one and as such having specific characteristics. We offer addons - extra perks for the main sponsors packages, so we can build a personalized one that fits your needs with some extra presence in certain parts of the conference.
