@@ -3,8 +3,9 @@
   "description": "A little book containing tips for sponsors",
   "author": "Codegram",
   "language": "English",
-  "plugins": ["theme-default", "styles-sass"],
+  "plugins": ["theme-default", "styles-sass", "autocover"],
   "styles": {
-    "website": "./styles/website.scss"
+    "website": "./styles/website.scss",
+    "ebook": "./styles/ebook.scss"
   }
 }
