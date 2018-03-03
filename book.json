@@ -2,5 +2,6 @@
   "title": "Full Stack Fest's sponsors handbook",
   "description": "A little book containing tips for sponsors",
   "author": "Codegram",
-  "language": "English"
+  "language": "English",
+  "plugins": ["theme-gestalt", "-theme-default", "styles-sass-fix"]
 }
