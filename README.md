@@ -1,4 +1,4 @@
-&nbsp;<p style="text-align: center"><img src="images/logo.png" /></p>
+&nbsp;<p style="text-align: center"><img src="images/logo.png" title="Full Stack Fest 2018"/></p>
 
 # The Sponsor's Handbook ™
 
