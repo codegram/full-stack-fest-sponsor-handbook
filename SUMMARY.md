@@ -6,7 +6,7 @@
 
 ## Becoming a sponsor
 
-* [Why sponsoring](why-sponsor.md)
+* [Why sponsor](why-sponsor.md)
 * [About](about.md)
 * [Sponsorship levels](sponsorship-levels.md)
 * [Previous Sponsors](previous-sponsors.md)
