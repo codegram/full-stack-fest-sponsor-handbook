@@ -15,5 +15,5 @@ Over the past year more than a **100** companies have trusted us and have sponso
 * Twilio
 * Xing
 
-You can check the complete list at our [conferences site](https://conferences.codegram.com).
+
 
