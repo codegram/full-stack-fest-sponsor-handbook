@@ -1,10 +1,105 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro:300,500');
+@import "./fonts.scss";
 
 
-.book.font-family-1, .book-summary{
-  font-family: 'Open Sans', sans-serif;
+
+$sky1: #a0adc3;
+$sky2: #c4d2ce;
+$lightgrey: #717171;
+$accent1: #6278ec;
+$accent2: #E00B22;
+$darkred: #bb0022;
+
+$bg: $sky1;
+$bodycolor: darken($bg, 45);
+
+
+//Fonts
+$font-1: 'Source Code Pro', monospace;
+$font-2: 'JoystixMonospace-Regular';
+$font-base: $font-1, sans-serif;
+
+
+#book-search-input{
+background-color: rgba(white, .3);
+    ::placeholder{
+        color: rgba(black, .6);
+    }
+}
+
+#book-search-results .search-results .has-results .search-results-item a{
+    color: $darkred;
+    &:hover{
+        color: lighten($darkred, 10);
+        text-decoration: none;
+    }
+}
+
+.book-summary{
+    background-color: darken($bg, 30);
+    font-family: $font-1;
+    font-size: 1.6rem;
+    .header{
+        font-family: $font-2;
+    }
+    ul.summary li:not(.active) a{
+        color: lighten($bg, 10);
+        &:hover{
+            text-decoration: none;
+            background-color: rgba(white, .1);
+        }
+    }
+    ul.summary li.active{
+         background-color: rgba(black, .2);
+    }
+    ul.summary li.active>a{
+        color: rgba(white, .8);
+    }
+
+}
+
+.book-body{
+    background-color: $bg;
+    font-family: $font-1;
+    color: $bodycolor;
+    .book.font-size-2 & .page-inner section{
+        font-size: 1.8rem;
+    }
 }
 
 h1, h2, h3, h4{
-    font-family: 'Open Sans', sans-serif;
+    font-family: $font-2;
+    color: $lightgrey;
 }
+
+.markdown-section{ 
+    a{
+        color: $darkred;
+        &:hover{
+            color: lighten($darkred, 10);
+            text-decoration: none;
+        } 
+    }
+    
+    table tr{
+        background-color: rgba(white, .4);
+        &:nth-child(2n){
+            background-color: rgba(white, .2);
+        }
+    }
+    ul{
+        list-style: square;
+        list-style-position: inside;
+        padding-left: 0;
+    }
+}
+
+.gitbook-link{
+    color: rgba(black, .2) !important;
+    margin-top: 100px;
+    &:hover{
+        background-color: transparent !important;
+        color: rgba(black, .4) !important;
+    }
+}
+
