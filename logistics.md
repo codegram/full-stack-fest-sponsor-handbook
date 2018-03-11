@@ -1,7 +1,8 @@
-# During the conference
+# Bag inserts & booth
 
-* Arrival time
-* Please wait for the attendees to leave before disassembling your stand
+More information soon.
+
+
 
 
 
