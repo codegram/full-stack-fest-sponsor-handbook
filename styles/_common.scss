@@ -20,6 +20,10 @@ $font-2: 'JoystixMonospace-Regular';
 $font-base: $font-1, sans-serif;
 
 
+#book-search-input{
+background-color: rgba(white, .5);
+}
+
 .book-summary{
     background-color: darken($bg, 30);
     font-family: $font-1;
