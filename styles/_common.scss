@@ -28,6 +28,10 @@ $font-base: $font-1, sans-serif;
     }
     ul.summary li a{
         color: $bg;
+        &:hover{
+            text-decoration: none;
+            background-color: rgba(white, .1);
+        }
     }
     ul.summary li.active{
          background-color: rgba(black, .2);
