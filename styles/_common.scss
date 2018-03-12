@@ -42,6 +42,9 @@ $font-base: $font-1, sans-serif;
     background-color: $bg;
     font-family: $font-1;
     color: $bodycolor;
+    .book.font-size-2 & .page-inner section{
+        font-size: 1.8rem;
+    }
 }
 
 h1, h2, h3, h4{
@@ -56,3 +59,4 @@ h1, h2, h3, h4{
         text-decoration: none;
     } 
 }
+
