@@ -28,6 +28,13 @@ $font-base: $font-1, sans-serif;
     ul.summary li a{
         color: $bg;
     }
+    ul.summary li.active{
+         background-color: rgba(black, .2);
+    }
+    ul.summary li.active>a{
+        color: rgba(white, .8);
+    }
+
 }
 
 .book-body{
