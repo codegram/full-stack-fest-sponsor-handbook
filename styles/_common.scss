@@ -27,6 +27,10 @@ background-color: rgba(white, .3);
     }
 }
 
+#book-search-results .search-results .has-results .search-results-item a{
+    color: $darkred;
+}
+
 .book-summary{
     background-color: darken($bg, 30);
     font-family: $font-1;
