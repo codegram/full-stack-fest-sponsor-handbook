@@ -18,8 +18,9 @@ $font-1: 'Source Code Pro', monospace;
 $font-2: 'JoystixMonospace-Regular';
 $font-base: $font-1, sans-serif;
 
-.book.font-family-1, .book-summary{
-  font-family: $font-1;
+
+.book-summary{
+    background-color: $sky2;
 }
 
 .book-body{
