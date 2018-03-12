@@ -63,12 +63,21 @@ h1, h2, h3, h4{
     color: $lightgrey;
 }
 
-.markdown-section a{
-    color: $darkred;
-    &:hover{
-        color: lighten($darkred, 10);
-        text-decoration: none;
-    } 
+.markdown-section{ 
+    a{
+        color: $darkred;
+        &:hover{
+            color: lighten($darkred, 10);
+            text-decoration: none;
+        } 
+    }
+    
+    table tr{
+        background-color: rgba(white, .4);
+        &:nth-child(2n){
+            background-color: rgba(white, .2);
+        }
+    }
 }
 
 .gitbook-link{
