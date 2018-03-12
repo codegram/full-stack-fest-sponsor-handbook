@@ -1,7 +1,28 @@
 @import url('https://fonts.googleapis.com/css?family=Source+Code+Pro:300,500');
 
+$sky1: #a0adc3;
+$sky2: #c4d2ce;
+$lightgrey: #717171;
+$accent1: #6278ec;
+$accent2: #E00B22;
+
+$bg: $sky1;
+$bodycolor: darken($bg, 45);
+
+
+//Fonts
+$font-1: 'Source Code Pro', monospace;
+$font-2: 'Joystix';
+$font-base: $font-1, sans-serif;
+
 .book.font-family-1, .book-summary{
-  font-family: 'Source Code Pro', monospaced;
+  font-family: $font-1;
+}
+
+.book-body{
+    background-color: $bg;
+    font-family: $font-1;
+    color: $bodycolor;
 }
 
 h1, h2, h3, h4{
