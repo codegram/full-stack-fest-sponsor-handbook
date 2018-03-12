@@ -89,6 +89,8 @@ h1, h2, h3, h4{
     }
     ul{
         list-style: square;
+        list-style-position: inside;
+        padding-left: 0;
     }
 }
 
