@@ -30,11 +30,12 @@ background-color: rgba(white, .2);
 .book-summary{
     background-color: darken($bg, 30);
     font-family: $font-1;
+    font-size: 1.6rem;
     .header{
         font-family: $font-2;
     }
     ul.summary li:not(.active) a{
-        color: $bg;
+        color: lighten($bg, 10);
         &:hover{
             text-decoration: none;
             background-color: rgba(white, .1);
