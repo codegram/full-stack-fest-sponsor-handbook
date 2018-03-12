@@ -52,6 +52,7 @@ h1, h2, h3, h4{
 .markdown-section a{
     color: $darkred;
     &:hover{
-        color: lighten($darkred, 20);
+        color: lighten($darkred, 10);
+        text-decoration: none;
     } 
 }
