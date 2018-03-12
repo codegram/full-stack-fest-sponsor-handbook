@@ -1,5 +1,14 @@
 @import url('https://fonts.googleapis.com/css?family=Source+Code+Pro:300,500');
 
+@font-face {
+    font-family: 'Joystix';
+    src: url('../assets/joystix_monospace-webfont.woff2') format('woff2'),
+         url('../assets/joystix_monospace-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 $sky1: #a0adc3;
 $sky2: #c4d2ce;
 $lightgrey: #717171;
@@ -26,6 +35,6 @@ $font-base: $font-1, sans-serif;
 }
 
 h1, h2, h3, h4{
-    font-family: 'Open Sans', sans-serif;
+    font-family: $font-2;
     color: blue;
 }
