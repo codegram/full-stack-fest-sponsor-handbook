@@ -71,3 +71,11 @@ h1, h2, h3, h4{
     } 
 }
 
+.gitbook-link{
+    color: rgba(black, .2) !important;
+    &:hover{
+        background-color: transparent !important;
+        color: rgba(black, .4) !important;
+    }
+}
+
