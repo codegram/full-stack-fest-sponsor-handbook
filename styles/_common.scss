@@ -29,6 +29,10 @@ background-color: rgba(white, .3);
 
 #book-search-results .search-results .has-results .search-results-item a{
     color: $darkred;
+    &:hover{
+        color: lighten($darkred, 10);
+        text-decoration: none;
+    }
 }
 
 .book-summary{
