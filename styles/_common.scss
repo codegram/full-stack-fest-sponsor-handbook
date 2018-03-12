@@ -1,13 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Source+Code+Pro:300,500');
+@import "./fonts.scss";
 
-@font-face {
-    font-family: 'Joystix';
-    src: url('/assets/joystix_monospace-webfont.woff2') format('woff2'),
-         url('/assets/joystix_monospace-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
 
-}
 
 $sky1: #a0adc3;
 $sky2: #c4d2ce;
@@ -21,7 +15,7 @@ $bodycolor: darken($bg, 45);
 
 //Fonts
 $font-1: 'Source Code Pro', monospace;
-$font-2: 'Joystix';
+$font-2: 'JoystixMonospace-Regular';
 $font-base: $font-1, sans-serif;
 
 .book.font-family-1, .book-summary{
