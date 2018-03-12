@@ -26,7 +26,7 @@ $font-base: $font-1, sans-serif;
     .header{
         font-family: $font-2;
     }
-    ul.summary li a{
+    ul.summary li:not(.active) a{
         color: $bg;
         &:hover{
             text-decoration: none;
