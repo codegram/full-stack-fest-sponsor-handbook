@@ -5,27 +5,27 @@
 | Benefits                                                                      |   Diamond    |    Gold     |   Silver    |   Bronze    |
 | :---------------------------------------------------------------------------- | :----------: | :---------: | :---------: | :---------: |
 | **Online**                                                                    |              |             |             |             |
-| [Discounted tickets](#discounted-tickets)                                     |      <span class="table-check">✔</span>       |      ✔      |      ✔      |      ✔      |
-| [Logo at sponsors page](#logo-at-sponsors-page)                               |      ✔       |      ✔      |      ✔      |      ✔      |
+| [Discounted tickets](#discounted-tickets)                                     |      <span class="table-check">✔</span>       |      <span class="table-check">✔</span>      |      <span class="table-check">✔</span>      |      <span class="table-check">✔</span>      |
+| [Logo at sponsors page](#logo-at-sponsors-page)                               |      <span class="table-check">✔</span>       |      <span class="table-check">✔</span>      |      <span class="table-check">✔</span>      |      <span class="table-check">✔</span>      |
 | [Tweet during conference](#tweet-during-conference)                           |      4       |      2      |      1      |      1      |
-| [Post on job board](#post-on-job-board)                                       |      ✔       |      ✔      |      ✔      |             |
-| [Logo at the landing page](#logo-at-the-landing-page)                         |      ✔       |      ✔      |             |             |
-| [Description on the sponsor page](#description-on-the-sponsor-page)           |      ✔       |      ✔      |             |             |
-| [Logo in the newsletter](#logo-in-the-newsletter)                             |      ✔       |      ✔      |             |             |
-| [Logo on recorded videos](#logo-on-recorded-videos)                           |      ✔       |             |             |             |
+| [Post on job board](#post-on-job-board)                                       |      <span class="table-check">✔</span>       |      <span class="table-check">✔</span>      |      <span class="table-check">✔</span>      |             |
+| [Logo at the landing page](#logo-at-the-landing-page)                         |      <span class="table-check">✔</span>       |      <span class="table-check">✔</span>      |             |             |
+| [Description on the sponsor page](#description-on-the-sponsor-page)           |      <span class="table-check">✔</span>       |      <span class="table-check">✔</span>      |             |             |
+| [Logo in the newsletter](#logo-in-the-newsletter)                             |      <span class="table-check">✔</span>       |      <span class="table-check">✔</span>      |             |             |
+| [Logo on recorded videos](#logo-on-recorded-videos)                           |      <span class="table-check">✔</span>       |             |             |             |
 | **Onsite**                                                                    |              |             |             |             |
 | [Free tickets](#free-tickets)                                                 |      5       |      3      |      2      |      1      |
-| [Slides/Mention by the MC](#slides-mention-by-the-mc)                         |      ✔       |      ✔      |      ✔      |      ✔      |
-| [Logo at the registration hall](#logo-at-the-registration-hall)               |      ✔       |      ✔      |      ✔      |             |
-| [Exhibit table](#exhibit-table)                                               |      ✔       |      ✔      |             |             |
-| [Logos projected near the main screen](#logos-projected-near-the-main-screen) |      ✔       |             |             |             |
-| [Logo on stage lectern](#logo-on-stage-lectern)                               |      ✔       |             |             |             |
-| [Logo on stage banner](#logo-on-stage-banner)                                 |      ✔       |             |             |             |
-| [Logo on the entrance billboard](#logo-on-the-entrance-billboard)             |      ✔       |             |             |             |
+| [Slides/Mention by the MC](#slides-mention-by-the-mc)                         |      <span class="table-check">✔</span>       |      <span class="table-check">✔</span>      |      <span class="table-check">✔</span>      |      <span class="table-check">✔</span>      |
+| [Logo at the registration hall](#logo-at-the-registration-hall)               |      <span class="table-check">✔</span>       |      <span class="table-check">✔</span>      |      <span class="table-check">✔</span>      |             |
+| [Exhibit table](#exhibit-table)                                               |      <span class="table-check">✔</span>       |      <span class="table-check">✔</span>      |             |             |
+| [Logos projected near the main screen](#logos-projected-near-the-main-screen) |      <span class="table-check">✔</span>       |             |             |             |
+| [Logo on stage lectern](#logo-on-stage-lectern)                               |      <span class="table-check">✔</span>       |             |             |             |
+| [Logo on stage banner](#logo-on-stage-banner)                                 |      <span class="table-check">✔</span>       |             |             |             |
+| [Logo on the entrance billboard](#logo-on-the-entrance-billboard)             |      <span class="table-check">✔</span>       |             |             |             |
 | **Hand over**                                                                 |              |             |             |             |
-| [Inserts to attendee bag](#inserts-to-attendee-bag)                           |      ✔       |      ✔      |      ✔      |             |
-| [Logo on attendee notebooks](#logo-on-attendee-notebooks)                     |      ✔       |      ✔      |             |             |
-| [Logo on attendee badges and lanyards](#logo-on-attendee-badges-and-lanyards) |      ✔       |             |             |             |
+| [Inserts to attendee bag](#inserts-to-attendee-bag)                           |      <span class="table-check">✔</span>       |      <span class="table-check">✔</span>      |      <span class="table-check">✔</span>      |             |
+| [Logo on attendee notebooks](#logo-on-attendee-notebooks)                     |      <span class="table-check">✔</span>       |      <span class="table-check">✔</span>      |             |             |
+| [Logo on attendee badges and lanyards](#logo-on-attendee-badges-and-lanyards) |      <span class="table-check">✔</span>       |             |             |             |
 | **Available slots**                                                           |    **2**     |    **7**    |   **20**    |    **∞**    |
 | **Price**                                                                     | **10.000 €** | **6.000 €** | **3.000 €** | **1.000 €** |
 
