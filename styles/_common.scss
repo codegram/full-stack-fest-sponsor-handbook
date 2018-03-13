@@ -107,7 +107,12 @@ h1, h2, h3, h4{
 .markdown-section table th{
     font-family: $font-2;
 }
-
+.markdown-section table tr{
+    background-color: darken($bg, 2);
+}
+.markdown-section table tr:nth-child(2n){
+    background-color: $bg;
+}
 .markdown-section table td, .markdown-section table th{
     border-color: rgba($bg2, .5);
 }
