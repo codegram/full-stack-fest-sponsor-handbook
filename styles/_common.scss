@@ -113,7 +113,7 @@ h1, h2, h3, h4{
 }
 
 .markdown-section table tr:nth-child(2n){
-    background-color: darken($bg, 15);
+    background-color: darken($bg, 10);
 }
 
 .markdown-section table td, .markdown-section table th{
