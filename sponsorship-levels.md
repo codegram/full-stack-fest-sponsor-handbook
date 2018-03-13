@@ -5,7 +5,7 @@
 | Benefits                                                                      |   Diamond    |    Gold     |   Silver    |   Bronze    |
 | :---------------------------------------------------------------------------- | :----------: | :---------: | :---------: | :---------: |
 | **Online**                                                                    |              |             |             |             |
-| [Discounted tickets](#discounted-tickets)                                     |      <span class="table-check">d</span>       |      ✔      |      ✔      |      ✔      |
+| [Discounted tickets](#discounted-tickets)                                     |      <span class="table-check">✔</span>       |      ✔      |      ✔      |      ✔      |
 | [Logo at sponsors page](#logo-at-sponsors-page)                               |      ✔       |      ✔      |      ✔      |      ✔      |
 | [Tweet during conference](#tweet-during-conference)                           |      4       |      2      |      1      |      1      |
 | [Post on job board](#post-on-job-board)                                       |      ✔       |      ✔      |      ✔      |             |
