@@ -1,4 +1,4 @@
-# Logo formats & media
+# Bag inserts & booth
 
 More information soon.
 

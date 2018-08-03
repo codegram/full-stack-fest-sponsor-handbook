@@ -1,6 +1,6 @@
-# Introduction
+# The Sponsor's Handbook ™
 
-![](.gitbook/assets/logo%20%281%29.png)
+![](../.gitbook/assets/logo.png)
 
 ## The Sponsor's Handbook ™
 
@@ -12,5 +12,5 @@ You can also download this document in the following formats:
 * [ePub](https://www.gitbook.com/download/epub/book/codegram/full-stack-fest-sponsor-handbook)
 * [Web](https://www.gitbook.com/read/book/codegram/full-stack-fest-sponsor-handbook)
 
-Please keep reading! You might want to start with [Why Sponsoring](becoming-a-sponsor/why-sponsor.md)!
+Please keep reading! You might want to start with [Why Sponsoring](../becoming-a-sponsor/why-sponsor.md)!
 

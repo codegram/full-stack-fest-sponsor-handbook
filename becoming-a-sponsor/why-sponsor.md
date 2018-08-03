@@ -1,4 +1,4 @@
-## Why Sponsor
+# Why sponsor
 
 Become our sponsor and benefit in many ways:
 
@@ -9,6 +9,4 @@ Become our sponsor and benefit in many ways:
 * **Reach out** to top notch developers of the whole technology stack: Frontend, backend and, of course, full stack.
 * **Level up your team's** skills, take a look at our packages and help us make an unforgettable event.
 * **Attract** the best **talent** to take your company to the next level.
-
-
 

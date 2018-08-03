@@ -21,7 +21,7 @@ Our audience is interested in a broad range of programming languages and technol
 
 [Codegram](https://www.codegram.com) is a software studio specializing in Ruby, Elixir, JavaScript and Clojure applications, crafted with love in Barcelona and London since 2009.
 
-We’ve been successfully organising conferences since 2012: four editions of Barcelona Ruby Conference (establishing it as one of the main Ruby events in Europe), two editions of Future JS, and three editions of Full Stack Fest.
+We’ve been successfully organising conferences since 2012: four editions of Barcelona Ruby Conference \(establishing it as one of the main Ruby events in Europe\), two editions of Future JS, and three editions of Full Stack Fest.
 
 But we’re not just a bunch of passionate developers: we also have an outstanding specialized media and production crew working with us making sure all aspects of the conference are taken care of in the most professional way. In total, it amounts to more than 25 people that we’re proud to consider our friends.
 
@@ -33,15 +33,11 @@ You can check our [YouTube channel](https://www.youtube.com/channel/UCwoOpKfkyCQ
 
 ## Event details
 
-**Dates**
-September 3-7 2018
+**Dates** September 3-7 2018
 
-**Attendees**
-Approximately 700 people from all around the world, but mostly from Europe.
+**Attendees** Approximately 700 people from all around the world, but mostly from Europe.
 
-**Venue address**
-Auditori AXA
-[Avinguda Diagonal, 547, 08029 Barcelona, Spain](https://goo.gl/maps/d8sSaQQcBc92)
+**Venue address** Auditori AXA [Avinguda Diagonal, 547, 08029 Barcelona, Spain](https://goo.gl/maps/d8sSaQQcBc92)
 
-**Advertising**
-Sponsored content through social networks and IT newsletters.
+**Advertising** Sponsored content through social networks and IT newsletters.
+
