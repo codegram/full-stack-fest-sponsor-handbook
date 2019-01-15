@@ -44,8 +44,8 @@ We like to think of every relationship with a sponsor as a unique one and as suc
 
 | Addon | Availability | Price |
 | :--- | :--- | :--- |
-| **Lunch**  Attendees love eating, so you can show your brand image in the napkins, glasses, or customize any item you may have in mind. | 3 | **5.000€** |
-| **Parties** Our conferences are known for their quality, not only during the talks but also when it’s time to party. And this time, let's go to the beach for this. The sponsor logo will be present at communications related to the party and also printed on glasses provided to the attendees. The sponsor is also encouraged to provide any other material \(like rollups\) and to suggest special activities to entertain the audience \(like a volleyball match\). | 4 | **4.000€** |
+| **Coffee Break**  Attendees love coffee breaks, where snacks, fruit and drinks are served during all day long. There will be the possibility to cusomize the napkins or the tables with your brand image. When announcing the break, the sponsor logo will be present at the auditorium screen and also mentioned by the conference MC. | 3 | **5.000€** |
+| **Parties** Our conferences are known for their quality, not only during the talks but also when it’s time to party. And this time, let's go to the beach for this! The sponsor logo will be present at communications related to the party and also printed on glasses provided to the attendees. The sponsor is also encouraged to provide any other material \(like rollups\) and to suggest special activities to entertain the audience \(like a volleyball match\). | 4 | **4.000€** |
 
 ## More Details
 
@@ -97,14 +97,6 @@ The sponsor logo will be present at the very entrance to the venue, just in fron
 
 The sponsor gets a table with two seats in the foyer where he can promote its brand or product. Any suggestion from sponsors on customizing the way brand/product is presented.
 
-### Logos projected near the main screen
-
-The sponsor logo will be projected with a spotlight, so it’ll be always present during the event.
-
-### Logo on stage lectern
-
-Logo appears during all videos and most of the photos.
-
 ### Logo on stage
 
 Logo will be present on stage.
@@ -119,5 +111,5 @@ The sponsor will have the opportunity to provide any promo material - subject to
 
 ### Logo on attendee bags
 
-The sponsor logo present on the attendee bag.
+The sponsor logo will be present on the attendee bag.
 
