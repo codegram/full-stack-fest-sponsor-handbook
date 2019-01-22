@@ -19,9 +19,9 @@ Our audience is interested in a broad range of programming languages and technol
 
 ## The organisers
 
-[Codegram](https://www.codegram.com) is a software studio specializing in Ruby, Elixir, JavaScript and Clojure applications, crafted with love in Barcelona and London since 2009.
+[Codegram](https://www.codegram.com) is a software studio specializing in Ruby, Elixir, JavaScript and Clojure applications, crafted with love in Barcelona since 2009.
 
-We’ve been successfully organising conferences since 2012: four editions of Barcelona Ruby Conference \(establishing it as one of the main Ruby events in Europe\), two editions of Future JS, and three editions of Full Stack Fest.
+We’ve been successfully organising conferences since 2012: four editions of Barcelona Ruby Conference \(establishing it as one of the main Ruby events in Europe\), two editions of Future JS, and five editions of Full Stack Fest.
 
 But we’re not just a bunch of passionate developers: we also have an outstanding specialized media and production crew working with us making sure all aspects of the conference are taken care of in the most professional way. In total, it amounts to more than 25 people that we’re proud to consider our friends.
 
@@ -37,7 +37,7 @@ You can check our [YouTube channel](https://www.youtube.com/channel/UCwoOpKfkyCQ
 
 **Attendees** Approximately 700 people from all around the world, but mostly from Europe.
 
-**Venue address** Hotel Melià Sitges [Carrer de Joan Salvat Papasseit, 38, 08870 Sitges, Barcelona](https://goo.gl/maps/BnmUPorgVUo)
+**Venue address** Hotel Melià Sitges [Carrer de Joan Salvat Papasseit, 38, 08870 Sitges, Barcelona](https://goo.gl/maps/BnmUPorgVUo). Comes with an auditorium with a capacity of 1300 people.
 
 **Advertising** Sponsored content through social networks and IT newsletters.
 
