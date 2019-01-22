@@ -2,9 +2,9 @@
 
 ## What's Full Stack Fest
 
-Full Stack Fest is a 3-day, language-agnostic conference for curious developers that want to gaze into the future. Developed to be the ultimate conference retreat for teams looking for inspiration.
+Full Stack Fest is a 3-day, language-agnostic conference for curious developers that want to gaze into the future. It's designed to be the ultimate conference retreat for teams looking for inspiration.
 
-We're putting the languages aside to put a strong focus on the technologies behind them and the problems they're trying to solve. At its core, the conference retains its soul: a single-track, curated, deeply technical event featuring the best speakers and industry leaders worldwide.
+We're putting the languages aside to shine a spotlight on the technologies behind them and the problems we are all trying to solve. At its core, the conference retains its soul: a single-track, curated, deeply technical event featuring the best speakers and industry leaders worldwide.
 
 ## Audience
 
@@ -14,8 +14,8 @@ Our audience is interested in a broad range of programming languages and technol
 * Mostly developers and technical leads
 * In the 25-44 age range
 * From Europe
-* Curious, looking to get inspired
-* Interested in many different programming languages, infrastrucutre, new technologies, scalability or new programming paradigms
+* Curious, looking for inspiration
+* Interested in many different programming languages, infrastructure, new technologies, scalability or new programming paradigms
 
 ## The organisers
 
