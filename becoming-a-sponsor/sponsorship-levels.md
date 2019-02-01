@@ -19,7 +19,6 @@
 | [Logo at the registration hall](sponsorship-levels.md#logo-at-the-registration-hall) | ✔ | ✔ | ✔ |  |
 | [Exhibit table](sponsorship-levels.md#exhibit-table) | ✔ | ✔ |  |  |
 | [Logos at the main stage](sponsorship-levels.md#logos-at-the-main-stage) | ✔ |  |  |  |
-| [Logo on stage lectern](sponsorship-levels.md#logo-on-stage-lectern) | ✔ |  |  |  |
 | [Logo on stage banner](sponsorship-levels.md#logo-on-stage-banner) | ✔ |  |  |  |
 | [Logo on the entrance billboard](sponsorship-levels.md#logo-on-the-entrance-billboard) | ✔ |  |  |  |
 | **Hand over** |  |  |  |  |
