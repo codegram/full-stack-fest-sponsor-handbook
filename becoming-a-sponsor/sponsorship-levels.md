@@ -20,7 +20,6 @@
 | [Exhibit table](sponsorship-levels.md#exhibit-table) | ✔ | ✔ |  |  |
 | [Logos at the main stage](sponsorship-levels.md#logos-at-the-main-stage) | ✔ |  |  |  |
 | [Logo on stage](sponsorship-levels.md#logo-on-stage) | ✔ |  |  |  |
-| [Logo on the entrance billboard](sponsorship-levels.md#logo-on-the-entrance-billboard) | ✔ |  |  |  |
 | **Hand over** |  |  |  |  |
 | [Inserts to attendee bag](sponsorship-levels.md#inserts-to-attendee-bag) | ✔ | ✔ | ✔ |  |
 | [Logo on attendee bag](sponsorship-levels.md#logo-on-attendee-bags) | ✔ |   |  |  |
@@ -99,10 +98,6 @@ The sponsor gets a table with two seats in the foyer where he can promote its br
 ### Logo on stage
 
 Logo will be present on stage.
-
-### Logo at the entrance billboard
-
-A big billboard with the conference poster visible to the whole audience when leaving and entering the venue.
 
 ### Inserts to attendee bag
 
