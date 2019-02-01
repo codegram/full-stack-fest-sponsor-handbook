@@ -18,7 +18,6 @@
 | [Slides/Mention by the MC](sponsorship-levels.md#slides-mention-by-the-mc) | ✔ | ✔ | ✔ | ✔ |
 | [Logo at the registration hall](sponsorship-levels.md#logo-at-the-registration-hall) | ✔ | ✔ | ✔ |  |
 | [Exhibit table](sponsorship-levels.md#exhibit-table) | ✔ | ✔ |  |  |
-| [Logos at the main stage](sponsorship-levels.md#logos-at-the-main-stage) | ✔ |  |  |  |
 | [Logo on stage](sponsorship-levels.md#logo-on-stage) | ✔ |  |  |  |
 | **Hand over** |  |  |  |  |
 | [Inserts to attendee bag](sponsorship-levels.md#inserts-to-attendee-bag) | ✔ | ✔ | ✔ |  |
