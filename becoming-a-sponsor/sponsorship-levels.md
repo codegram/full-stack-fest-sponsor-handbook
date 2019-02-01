@@ -18,13 +18,13 @@
 | [Slides/Mention by the MC](sponsorship-levels.md#slides-mention-by-the-mc) | ✔ | ✔ | ✔ | ✔ |
 | [Logo at the registration hall](sponsorship-levels.md#logo-at-the-registration-hall) | ✔ | ✔ | ✔ |  |
 | [Exhibit table](sponsorship-levels.md#exhibit-table) | ✔ | ✔ |  |  |
-| [Logos at the main stage](sponsorship-levels.md#logos-projected-near-the-main-screen) | ✔ |  |  |  |
+| [Logos at the main stage](sponsorship-levels.md#logos-at-the-main-stage) | ✔ |  |  |  |
 | [Logo on stage lectern](sponsorship-levels.md#logo-on-stage-lectern) | ✔ |  |  |  |
 | [Logo on stage banner](sponsorship-levels.md#logo-on-stage-banner) | ✔ |  |  |  |
 | [Logo on the entrance billboard](sponsorship-levels.md#logo-on-the-entrance-billboard) | ✔ |  |  |  |
 | **Hand over** |  |  |  |  |
 | [Inserts to attendee bag](sponsorship-levels.md#inserts-to-attendee-bag) | ✔ | ✔ | ✔ |  |
-| [Logo on attendee bag](sponsorship-levels.md#logo-on-attendee-notebooks) | ✔ | ✔ |  |  |
+| [Logo on attendee bag](sponsorship-levels.md#logo-on-attendee-bags) | ✔ |   |  |  |
 | **Available slots** | **2** | **7** | **20** | **∞** |
 | **Price** | **10.000 €** | **6.000 €** | **3.000 €** | **1.000 €** |
 
