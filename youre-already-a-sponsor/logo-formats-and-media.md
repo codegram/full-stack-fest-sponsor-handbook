@@ -1,4 +1,4 @@
-# Logo Formats & media
+# Logo Formats & Media
 
 All logos have to be in **vector format** \(.ai or .svg\) or if it's not possible, in .png format.
 
