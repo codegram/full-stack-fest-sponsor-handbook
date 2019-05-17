@@ -10,10 +10,10 @@ We're putting the languages aside to shine a spotlight on the technologies behin
 
 Our audience is interested in a broad range of programming languages and technologies like: Ruby, JavaScript, Performance, Functional Programming, ReactJS, Scalability, Docker, Infrastructure, Internet of Things, Single Page Applications, Go, Rust, Elixir, iOS…
 
-* Most of them consider them advanced or experts
-* Mostly developers and technical leads
-* In the 25-44 age range
-* From Europe
+* 75% of the attendees consider themselves advanced-level or experts
+* More than 75% are developers and technical leads
+* 87% fall within the 25-44 age range
+* Mostly from Europe
 * Curious, looking for inspiration
 * Interested in many different programming languages, infrastructure, new technologies, scalability or new programming paradigms
 
@@ -35,9 +35,9 @@ You can check our [YouTube channel](https://www.youtube.com/channel/UCwoOpKfkyCQ
 
 **Dates** September 4-6 2019
 
-**Attendees** Approximately 700 people from all around the world, but mostly from Europe.
+**Attendees** Historically, we've hosted ~700 people from all around the world, but mostly from Europe (on average). However, our new venue doubles down on capacity with an auditorium for up to 1300 people.
 
-**Venue address** Hotel Melià Sitges [Carrer de Joan Salvat Papasseit, 38, 08870 Sitges, Barcelona](https://goo.gl/maps/BnmUPorgVUo). Comes with an auditorium with a capacity of 1300 people.
+**Venue address** Hotel Melià Sitges [Carrer de Joan Salvat Papasseit, 38, 08870 Sitges, Barcelona](https://goo.gl/maps/BnmUPorgVUo). 
 
 **Advertising** Sponsored content through social networks and IT newsletters.
 
