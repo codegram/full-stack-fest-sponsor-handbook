@@ -25,6 +25,8 @@
 | **Available slots** | **2** | **7** | **20** | **∞** |
 | **Price** | **10.000 €** | **6.000 €** | **3.000 €** | **1.000 €** |
 
+**Note:** Platinum-Level Sponsorship (Enterprise Plan) available as a custom add-on (contact us for more information)
+
 ## Opportunity grant sponsorship
 
 Conferences are a great way to get inspired and get to learn more about the industry and meet new people. Unfortunately, not everyone is able to afford the expenses associated with coming to the conference. For that reason, we provide opportunity grants for selected appliants in to help them cover some \(or all\) of the costs.
@@ -49,7 +51,7 @@ We like to think of every relationship with a sponsor as a unique one and as suc
 
 ### Discounted tickets
 
-As a sponsor, you’re eligible to receive extra tickets with a special discount between 5-10% \(depending on the quantity\). **Subject to availability.**
+As a sponsor, you’re eligible to receive extra tickets with a special discount between 5-15% \(depending on the quantity\). **Subject to availability.**
 
 ### Logo at sponsors page
 
