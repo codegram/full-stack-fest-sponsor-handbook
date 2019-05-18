@@ -11,5 +11,6 @@ Spain
 
 VAT number: ESB65148900
 
-Phone 0034 937 872 194
+Phone (ES) 0034 937 872 194  
+Phone (UK) 0044 20 3808 4844
 
