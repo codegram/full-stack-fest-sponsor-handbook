@@ -22,10 +22,9 @@
 | **Hand over** |  |  |  |  |
 | [Inserts to attendee bag](sponsorship-levels.md#inserts-to-attendee-bag) | ✔ | ✔ | ✔ |  |
 | [Logo on attendee bag](sponsorship-levels.md#logo-on-attendee-bags) | ✔ |   |  |  |
-| **Available slots** | **2** | **7** | **20** | **∞** |
 | **Price** | **10.000 €** | **6.000 €** | **3.000 €** | **1.000 €** |
 
-**Note:** Platinum-Level Sponsorship (Enterprise Plan) available as a custom add-on (contact us for more information)
+**Note:** Platinum-Level Sponsorship (Enterprise Plans) are available as a custom add-on (contact us for more information).
 
 ## Opportunity grant sponsorship
 
