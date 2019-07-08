@@ -6,6 +6,18 @@ If so, we’d need that material at least 2 weeks before the conference.
 
 Remember: we include a FSF-branded pen, a tshirt, a lanyard and a notebook inside the totebag, so it's probably best to check in with us about what you'd like to include so we can ensure that not every sponsor adds a notebook, or a pen or any other similar attendee treats. 
 
+A few ideas for your consideration:
+
+- good portable battery packs
+- travel adapters
+- packing cubes
+- backpacks
+- reusable coffee cups
+- sunscreen / lip balm
+- nice enamel pins
+- stickers that arent just a logo
+- donations to charity
+
 Also, keep in mind that paper fliers tend to end up in the trash, so if you decide to include them, please limit them to A5 size tops.
 
 Get in touch if you need any clarity regarding the items you're considering to include :)
