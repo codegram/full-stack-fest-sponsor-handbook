@@ -15,7 +15,7 @@ A few ideas for your consideration:
 - reusable coffee cups
 - sunscreen / lip balm
 - nice enamel pins
-- stickers that arent just a logo
+- stickers that aren't just a logo
 - donations to charity
 
 Also, keep in mind that paper fliers tend to end up in the trash, so if you decide to include them, please limit them to A5 size tops.
